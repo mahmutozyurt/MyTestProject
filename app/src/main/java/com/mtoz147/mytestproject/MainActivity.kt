@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         for (num in mylist){
             println(num)
         }
+        println("test")
     }
 }
